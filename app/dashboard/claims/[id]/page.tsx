@@ -80,7 +80,7 @@ export default function ClaimStatusPage({ params }: { params: { id: string } }) 
         <CardContent>
           <ul className="list-disc list-inside space-y-2">
             <li>Copy of medical bills</li>
-            <li>Doctor's prescription</li>
+            <li>Doctors prescription</li>
           </ul>
           <Button className="mt-4">
             <Upload className="mr-2 h-4 w-4" /> Upload Additional Documents
