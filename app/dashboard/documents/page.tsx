@@ -32,7 +32,7 @@ export default function DocumentsPage() {
         <CardContent>
           <ul className="list-inside list-disc space-y-2">
             <li>Medical bills</li>
-            <li>Doctor's prescription</li>
+            <li>Doctors prescription</li>
             <li>Insurance policy document</li>
             <li>Claim form</li>
           </ul>

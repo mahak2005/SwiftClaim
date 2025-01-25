@@ -5,7 +5,7 @@ import { CheckCircle2, Clock, FileText, Upload } from "lucide-react"
 import { Button } from "@/components/ui/button"
 import { Card, CardContent, CardDescription, CardHeader, CardTitle } from "@/components/ui/card"
 import { Progress } from "@/components/ui/progress"
-import { Separator } from "@/components/ui/separator"
+// import { Separator } from "@/components/ui/separator"
 
 const stages = [
   { id: 1, name: "Submitted", icon: FileText, completed: true },
